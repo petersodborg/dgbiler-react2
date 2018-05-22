@@ -1,0 +1,10 @@
+html, body {
+  /* overflow: scroll; */
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #e9ecef;
+  padding-top: 30px;
+}
